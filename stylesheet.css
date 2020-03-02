@@ -29,7 +29,7 @@ body {
 			img {
 				float: left;
 				margin-right: 20px;
-				margin-bottom: 5px;
+				margin-bottom: 15px;
 				margin-top: 0px;
 				margin-left: 0px;
 			}
@@ -44,12 +44,6 @@ body {
 				margin-bottom: 5px;
 				margin-top: 0px;
 				margin-left: 0px;
-			}
-			
-			img:hover {
-				width: 700px;
-				height: 500px;
-				
 			}
 			
 			ul {
@@ -110,13 +104,13 @@ body {
 		}
 		
 		tr:nth-child(even) {
-			background-color: #DDD;
+			background-color: #EA5738;
 			}
 		tr:nth-child(odd) {
-			background-color: white;
+			background-color: #388EEA;
 			}
 		tr:hover {
-			background-color: #047A4A;
+			background-color: #9E14DE;
 			color: white;
 			}
 		th, td {
@@ -124,7 +118,10 @@ body {
 		}
 		
 		th {
-			background-color: black;
+			background-color: #DE7F14;
 			color:            white;
 			
+			}
+		a:hover {
+		color: red;
 			}
