@@ -104,7 +104,13 @@ body {
 				margin-top: 10px;
 				margin-bottom: 10px;
 			}
-			
+			p {
+font-family: 'Roboto Slab', serif;
+
+}
+p.bar {
+font-family: 'Fredoka One', cursive;
+}
 			table, th, td {
 			border-bottom: 1px solid #DDDDDD;
 			text-align: center;
